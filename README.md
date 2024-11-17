@@ -1,6 +1,6 @@
 # Pruebas_Proyecto_IIC
 >[!NOTE]
->Estos son codigos con los cuales se realizaron pruebas para las RNN (Redes Neuronales Recurrentes) y LSTM (Long Short Term Memory) para la investigacion de la materia Introduccion a la Ingenieria del Conocimiento
+>Estos son códigos con los cuales se realizaron pruebas para las RNN (Redes Neuronales Recurrentes) y LSTM (Long Short Term Memory) para la investigacion de la materia Introducción a la Ingeniería del Conocimiento, en base a IBM Watson y su informacion proporcionada.
 
 >[!IMPORTANT]
 >Alumno: Jaziel Castorena Quiroz
